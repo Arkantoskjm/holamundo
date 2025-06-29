@@ -1,0 +1,14 @@
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\obj\Debug\net9.0\Holamundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\obj\Debug\net9.0\Holamundo.AssemblyInfoInputs.cache
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\obj\Debug\net9.0\Holamundo.AssemblyInfo.cs
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\obj\Debug\net9.0\Holamundo.csproj.CoreCompileInputs.cache
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\bin\Debug\net9.0\Holamundo.exe
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\bin\Debug\net9.0\Holamundo.deps.json
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\bin\Debug\net9.0\Holamundo.runtimeconfig.json
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\bin\Debug\net9.0\Holamundo.dll
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\bin\Debug\net9.0\Holamundo.pdb
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\obj\Debug\net9.0\Holamundo.dll
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\obj\Debug\net9.0\refint\Holamundo.dll
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\obj\Debug\net9.0\Holamundo.pdb
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\obj\Debug\net9.0\Holamundo.genruntimeconfig.cache
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\obj\Debug\net9.0\ref\Holamundo.dll
