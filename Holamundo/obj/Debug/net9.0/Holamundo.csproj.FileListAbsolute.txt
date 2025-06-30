@@ -12,3 +12,4 @@ D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\obj\Debug\net9.0\refint\H
 D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\obj\Debug\net9.0\Holamundo.pdb
 D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\obj\Debug\net9.0\Holamundo.genruntimeconfig.cache
 D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\obj\Debug\net9.0\ref\Holamundo.dll
+D:\Arkantos\Documents\Source\repos\Holamundo\Holamundo\obj\Debug\net9.0\Holamundo.sourcelink.json
