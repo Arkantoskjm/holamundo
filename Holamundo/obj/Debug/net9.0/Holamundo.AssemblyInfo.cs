@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Holamundo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61eb4838231f85a2116c7e6e75b6c0fe120f9892")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5372e453621a89c073235869c5d3aeb775916b1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Holamundo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Holamundo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

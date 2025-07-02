@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Holamundo\\TablaDeSalario.cs",
               "ToolTip": "D:\\Arkantos\\Documents\\Source\\repos\\Holamundo\\Holamundo\\TablaDeSalario.cs",
               "RelativeToolTip": "Holamundo\\TablaDeSalario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T04:54:29.834Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Holamundo\\PedirUnaOrden.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T18:39:50.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T18:39:50.509Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Holamundo\\Multiplicacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T18:34:19.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T18:34:19.299Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Holamundo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T18:26:36.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T18:26:36.973Z"
             }
           ]
         }
